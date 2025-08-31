@@ -5,5 +5,6 @@ using namespace std;
 int main () {
 Enter first integer: 42
 Enter Second integer: 27
-  
+
+the sum is: 69
 }
